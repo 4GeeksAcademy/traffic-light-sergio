@@ -10,3 +10,22 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.trafficPost {
+    height: 100px;
+    width: 10px;
+    background-color: black;
+}
+.light {
+    height: 75px;
+    width: 75px;
+    border-radius: 100%;
+}
+.on {
+    box-shadow: 0 0 40px #FFFFFF;
+}
+.hidden {
+    display: none;
+}
+.show {
+    display: flex;
+}
